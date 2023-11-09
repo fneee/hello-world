@@ -1,11 +1,11 @@
 #vocab
-"@mention" -- (mencion) - para notificar a alguna persona, se usa esta. algo como @fneee
-"assignee" -- ~assignado - persona asignada para hacer algo
+"@mention" -- (mención) - para notificar a alguna persona, se usa esta. algo como @fneee
+"assignee" -- ~asignado - persona asignada para hacer algo
 "bio" -- bio - información del usuario
-"branch" -- rama - version paralella de un repositorio, el cual se puede modificar y cambiar sin afectar a la parte principal
-"authentication code" - codigo de autentizacion - parte de la autentizacion de 2 factores, esta viene con un codigo el cual se ingresa despues de la contraseña. sirve para proteger una cuenta
-"open source" -- código abierto - software el cual se puede agarrar, modificar y redistrubuir por toda la gente
-"directiory" -- directorio - un archivo el cual contiene uno o mas archivos dentro de el (como por ejemplo %AppData%)
-"gitfile" -- archivo .git - un archivo sin formato que siempre esta en la raíz del arbol
+"branch" -- rama - versión paralela de un repositorio, el cual se puede modificar y cambiar sin afectar a la parte principal
+"authentication code" - código de autenticación - parte de la autenticación de 2 factores, esta viene con un código el cual se ingresa después de la contraseña. sirve para proteger una cuenta
+"open source" -- código abierto - software el cual se puede agarrar, modificar y ser distribuido por toda la gente
+"directory" -- directorio - un archivo el cual contiene uno o mas archivos dentro de el (como por ejemplo %AppData%)
+"gitfile" -- archivo .git - un archivo sin formato que siempre esta en la raíz del árbol
 "README" -- leeme - archivo de texto el cual contiene información del repositorio/directorio/archivo
-"webhook" -- gancho de web - permite compilar o configurar apliciones de github
+"webhook" -- gancho de web - permite compilar o configurar aplicaciones de github
